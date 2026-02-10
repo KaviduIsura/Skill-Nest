@@ -1,4 +1,4 @@
-# Skill-Nest
+# Skill Nest
 An AI-Powered Smart Learning &amp; Career Platform
 
 SkillPath AI

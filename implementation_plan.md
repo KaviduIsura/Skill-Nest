@@ -1,4 +1,4 @@
-# Skill-Nest: 1-Month Learning & Implementation Plan
+# Skill Nest: 1-Month Learning & Implementation Plan
 
 This plan guides you from zero to a fully deployed AI-powered EdTech platform in 4 weeks. It combines concept learning with practical implementation.
 
