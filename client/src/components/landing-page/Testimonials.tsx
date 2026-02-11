@@ -5,7 +5,8 @@ import { Star } from "lucide-react";
 
 export function Testimonials() {
   return (
-    <section className="py-20 bg-[#FFF9F5] relative overflow-hidden">
+ 
+    <section className="py-20 bg-[#f5f6fa] relative overflow-hidden">
       {/* Background Decor */}
       <div className="absolute top-0 right-0 w-64 h-64 bg-primary/5 rounded-full blur-3xl"></div>
       <div className="absolute bottom-0 left-0 w-64 h-64 bg-secondary/5 rounded-full blur-3xl"></div>

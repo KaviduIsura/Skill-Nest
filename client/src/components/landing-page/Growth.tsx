@@ -7,7 +7,8 @@ import { motion } from "framer-motion";
 
 export function Growth() {
   return (
-    <section className="py-20 w-full container mx-auto px-4">
+    <section className="bg-[#f5f6fa]">
+    <section className="py-20 w-full container mx-auto px-4 ">
       <div className="grid md:grid-cols-2 gap-12 items-center">
         {/* Image Side */}
         <motion.div 
@@ -65,6 +66,7 @@ export function Growth() {
              </Button>
         </div>
       </div>
+    </section>
     </section>
   );
 }

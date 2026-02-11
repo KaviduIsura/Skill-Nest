@@ -75,7 +75,6 @@ export function SlidingAuth({ initialMode = "login" }: SlidingAuthProps) {
                     >
                         Sign In
                     </button>
-                    <Image src="/hero-student.png" alt="Student" width={200} height={200} className="absolute bottom-0 left-10 opacity-50 pointer-events-none drop-shadow-2xl" />
                 </div>
 
                 {/* Right Panel Content (Visible when Login active -> shows "Hello, Friend") */}
@@ -90,7 +89,7 @@ export function SlidingAuth({ initialMode = "login" }: SlidingAuthProps) {
                     >
                         Sign Up
                     </button>
-                    <Image src="/hero-student.png" alt="Student" width={200} height={200} className="absolute bottom-0 right-10 opacity-50 pointer-events-none drop-shadow-2xl scale-x-[-1]" />
+                    
                 </div>
             </div>
         </div>

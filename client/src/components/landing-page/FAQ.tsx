@@ -27,6 +27,7 @@ export function FAQ() {
   const [activeIndex, setActiveIndex] = useState<number | null>(0);
 
   return (
+    <section className="bg-[#f5f6fa]">
     <section className="py-20 container mx-auto px-4">
       <div className="grid md:grid-cols-2 gap-12">
         <div className="space-y-6">
@@ -77,6 +78,7 @@ export function FAQ() {
             ))}
         </div>
       </div>
+    </section>
     </section>
   );
 }

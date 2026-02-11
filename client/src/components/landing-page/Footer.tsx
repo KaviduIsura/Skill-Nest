@@ -6,7 +6,7 @@ import { Button } from "@/components/ui/button";
 
 export function Footer() {
   return (
-    <footer className="bg-[#FFF9F5] pt-20 pb-10 border-t border-border/40">
+    <footer className="bg-[#f7ebe9] pt-20 pb-10 border-t border-border/40">
       <div className="container mx-auto px-4">
         
         {/* Newsletter Section */}
